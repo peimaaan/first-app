@@ -5,9 +5,10 @@ Vue.js یک فریمورک مدرن فرانت‌اند است که به همه 
 
 jQuery
 Angular JS
- Angular 2 
-  React 
-  Bootstrap 
+Angular 2 
+React
+Bootstrap
+Meteor
 
   #  چرا از فریم ورک ویو استفادع میکنیم؟
 
