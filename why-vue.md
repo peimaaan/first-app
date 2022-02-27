@@ -3,12 +3,12 @@ Vue.js یک فریمورک مدرن فرانت‌اند است که به همه 
 
 # رقیبان ویو کدام ها هستند؟ 
 
-jQuery
-Angular JS
-Angular 2 
-React
-Bootstrap
-Meteor
+- jQuery
+- Angular JS
+- Angular 2 
+- React
+- Bootstrap
+- Meteor
 
   #  چرا از فریم ورک ویو استفادع میکنیم؟
 
